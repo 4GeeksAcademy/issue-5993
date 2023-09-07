@@ -6,7 +6,7 @@
 !.gitpod.yml
 !.devcontainer
 !.github
-!.vscode
+
 php_errorlog
 .log
 
